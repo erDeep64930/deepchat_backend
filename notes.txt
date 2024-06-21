@@ -1,0 +1,10 @@
+step-1 create index.js for server
+
+step-2 create model for schema what typeof value to be store
+
+step-3 business logic  is written in controllers
+business logic can be login , register,
+
+step -4 create route
+step 5 
+create middleware for authorization and authentication
